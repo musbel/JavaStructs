@@ -64,9 +64,7 @@ public class HashTable<K,V>
 			
 			prev = entry;
 		}
-		
-		
-		
+
 		return false;
 	}
 	
